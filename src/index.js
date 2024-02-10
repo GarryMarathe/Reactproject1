@@ -5,7 +5,7 @@ import './index.css';
 ReactDOM.render(
 
   <>
-    <div className="cards">
+    {/* <div className="cards">
       <div className="card ">
         < img src="https://wallpapercave.com/w/wp4056410.jpg" alt="myPic" className="card_img" />
         <div className="card_info">
@@ -16,7 +16,9 @@ ReactDOM.render(
           </a>
         </div>
       </div>
-    </div>
+    </div> */}
+
+<input type="text" value="gaurav" />
   </>,
   document.getElementById('root')
 );
