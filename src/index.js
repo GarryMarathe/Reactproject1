@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 
 ReactDOM.render(
@@ -18,7 +18,7 @@ ReactDOM.render(
       </div>
     </div> */}
 
-<input type="text" value="gaurav" />
+  <input type="text" value="gaurav" />
   </>,
   document.getElementById('root')
 );
